@@ -1,0 +1,38 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "world",
+      "source": "Editorial",
+      "questions": [
+        "hello"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-08-11T11:22:59.639+01:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    },
+    {
+      "id": 2,
+      "answer": "success!",
+      "source": "Editorial",
+      "questions": [
+        "37.8°c"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2021-08-11T11:24:39.786+01:00",
+      "isDocumentText": false,
+      "extractionConfidence": -1.0
+    }
+  ]
+}
